@@ -25,5 +25,5 @@ jobs:
     - name: Run tests
       run: |
         source venv/bin/activate
-        pytest /home/runner/work/PytestChecking/PytestChecking/diggerTest.py
+        pytest /home/runner/work/PytestChecking/PytestChecking/english_project_test.py
 
