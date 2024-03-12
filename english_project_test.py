@@ -20,7 +20,7 @@ class Test:
 
     def test_multiply(self):
         num = multiply(self.number1,self.number2)
-        assert(num == 23)
+        assert(num == 24)
         print("test 3 passed")
 
     def test_crypting_password(self):
